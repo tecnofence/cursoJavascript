@@ -26,3 +26,15 @@ console.dir(String.prototype)
 // API Number
 
 console.dir(Number.prototype)
+
+//Principais Construtores ( APIs)
+
+console.dir(String.prototype);
+console.dir(Nmber.prototype)
+console.dir(Boolean.prototype)
+console.dir(Array.prototype)
+console.dir(Object.prototype)
+console.dir(RegExp.prototype)
+console.dir(String.prototype)
+console.dir(String.prototype)
+
